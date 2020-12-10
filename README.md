@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, Eu sou o JP</h1>
-<h3 align="center">Me encontro altamente empenhado para desempenhar uma capacitação Full Stack</h3>
+<h1 align="center">Oi 👋, Eu sou o JP</h1>
+<h3 align="center">Estudante para abstrair os melhores conceitos disponíveis de programação de aplicar no código com empenho e paixão.</h3>
 
-- No momento, concentrado no bootcamp Desenvolvedor Full Stack Java Jr da [Generation Brasil](https://brazil.generation.org/)
+- No momento, concentrado no bootcamp Desenvolvedor Full Stack Java Jr da [Generation Brasil].(https://brazil.generation.org/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
