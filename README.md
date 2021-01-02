@@ -1,5 +1,6 @@
-###Hi There
-<h3 align="center">Estudando formas de abstrair conceitos sólidos em softwares e programas sentenças de código na criaçao de aplicação arquitetadas.</h3>
+ ### Olá 👋
+### Hi There
+<h3 align="center">Estudando formas de abstrair conceitos sólidos em softwares, e programar sentenças de código na criaçao de aplicação arquitetadas.</h3>
 
 - No momento, concentrado no bootcamp Desenvolvedor Full Stack Java Jr da [Generation Brasil](https://brazil.generation.org/).
 
