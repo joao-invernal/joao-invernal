@@ -1,9 +1,9 @@
-<h1 align="center">Oi 👋, Eu sou o JP</h1>
-<h3 align="center">Estudando para abstrair conceitos sólidos de programação e aplicar no código para criaçao de aplicação arquitetadas.</h3>
+###Hi There
+<h3 align="center">Estudando formas de abstrair conceitos sólidos em softwares e programas sentenças de código na criaçao de aplicação arquitetadas.</h3>
 
-- No momento, concentrado no bootcamp Desenvolvedor Full Stack Java Jr da [Generation Brasil].(https://brazil.generation.org/)
+- No momento, concentrado no bootcamp Desenvolvedor Full Stack Java Jr da [Generation Brasil](https://brazil.generation.org/).
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Network:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joão-pedro-sena-64a3b11a0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joão-pedro-sena-64a3b11a0/" height="30" width="40" /></a>
 </p>
