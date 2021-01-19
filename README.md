@@ -1,5 +1,5 @@
  ### Hi There 👋
-<h3 align="center">Estudando abstrações em formas de conceitos sólidos na engenharia de softwares, programando sentenças de código na criaçao de aplicação arquitetadas.</h3>
+<h3 align="center">Estudando abstrações em formas de conceitos sólidos na arquitetura de softwares, programando sentenças de código na criaçao de aplicação arrojada.</h3>
 
 - No momento, concentrado no bootcamp Desenvolvedor Full Stack Java Jr da [Generation Brasil](https://brazil.generation.org/).
 
