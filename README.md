@@ -1,7 +1,7 @@
  ### Hi There 👋
-<h3 align="center">Estudando abstrações em formas de conceitos sólidos na arquitetura de softwares, programando sentenças de código na criaçao de aplicação arrojada.</h3>
+<h3 align="center">Sou um desenvolvedor jr. incluso nessa nova surpreendente onda de tecnologias.</h3>
 
-- No momento, concentrado no bootcamp Desenvolvedor Full Stack Java Jr da [Generation Brasil](https://brazil.generation.org/).
+- No momento, me aprofundando em uma Stack Full Java pelo bootcamp da [Generation Brasil](https://brazil.generation.org/).
 
 <h3 align="left">Network:</h3>
 <p align="left">
