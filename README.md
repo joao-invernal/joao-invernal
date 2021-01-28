@@ -2,8 +2,6 @@
 
 Atualmente consolidando uma Stack completa, durante o bootcamp da [Generation Brasil](https://brazil.generation.org/) no desenvolvimento de um rede social, utilizando um ecossistema de tecnologias desde do Back-End até o Front-End, desde Java  com o Spring Tools, até JavaScript com o Angular.
 
-Atualmente estou participando de um Bootcamp Full Stack da [Generation Brasil](https://brazil.generation.org) e estou desenvolvendo uma rede social  em equipe utilizando Java :coffee:, Spring Boot :leaves:, SQL :dolphin:, Angular :a: e Docker :whale:.
-
 <h3 align="left">Network:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joão-pedro-sena-64a3b11a0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joão-pedro-sena-64a3b11a0/" height="30" width="40" /></a>
