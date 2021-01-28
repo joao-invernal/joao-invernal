@@ -1,5 +1,5 @@
  ### Hi There 👋
-<h3 align="center">No momento, concentrado no bootcamp Desenvolvedor Full Stack Java Jr da [Generation Brasil](https://brazil.generation.org/).</h3>
+<h3 align="center">Atualmente consolidando uma Stack completa, ao redor de Java pelo bootcamp da [Generation Brasil](https://brazil.generation.org/).</h3>
 
 
 <h3 align="left">Network:</h3>
