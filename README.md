@@ -1,7 +1,6 @@
  ### Hi There 👋
-<h3 align="center">Sou um desenvolvedor jr. mergulhando nessa nova surpreendente onda de tecnologias.</h3>
+<h3 align="center">Sou um desenvolvedor jr. atualmente consolidando uma Stack completa, ao redor de Java pelo bootcamp da [Generation Brasil](https://brazil.generation.org/).</h3>
 
-- No momento, consolidando uma Stack completa, ao redor de Java pelo bootcamp da [Generation Brasil](https://brazil.generation.org/).
 
 <h3 align="left">Network:</h3>
 <p align="left">
