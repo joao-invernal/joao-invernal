@@ -1,6 +1,8 @@
  ### Hi There 👋
-<h3 align="center"></h3>
-Atualmente consolidando uma Stack completa, ao redor de Java pelo bootcamp da [Generation Brasil](https://brazil.generation.org/).
+
+Atualmente consolidando uma Stack completa, durante o bootcamp da [Generation Brasil](https://brazil.generation.org/) no desenvolvimento de um rede social, utilizando um ecossistema de tecnologias desde do Back-End até o Front-End, desde Java  com o Spring Tools, até JavaScript com o Angular.
+
+Atualmente estou participando de um Bootcamp Full Stack da [Generation Brasil](https://brazil.generation.org) e estou desenvolvendo uma rede social  em equipe utilizando Java :coffee:, Spring Boot :leaves:, SQL :dolphin:, Angular :a: e Docker :whale:.
 
 <h3 align="left">Network:</h3>
 <p align="left">
