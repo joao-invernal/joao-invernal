@@ -1,6 +1,6 @@
  ### Hi There 👋
 
-Seja bem vindo aos meus repositório, aqui você encontrará armazenado atividades com algumas linguagens, aplicação desenvolvida em participações de processos seletivos (biovac, por exemplo) e boa parte da minha experiência durante o Bootcamp da [Generation Brasil](https://brazil.generation.org/) como tarefas do Back-End até o Front-End; Desde Java  com o Spring Tools, até JavaScript com o Angular.
+Seja bem vindo aos meus repositórios, aqui você encontrará armazenado atividades com algumas linguagens, aplicação desenvolvida em participações de processos seletivos (biovac, por exemplo) e boa parte da minha experiência durante o Bootcamp da [Generation Brasil](https://brazil.generation.org/) como tarefas do Back-End até o Front-End; Desde Java  com o Spring Tools, até JavaScript com o Angular.
 
 <h3 align="left">Network:</h3>
 <p align="left">
