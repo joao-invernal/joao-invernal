@@ -10,7 +10,7 @@
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="assets/img/iconPython.svg" alt="python" width="40" height="40"/> </a> 
  
- <> (This is a comment, it will not be included)
+[//]: <> (This is also a comment.)
  
 # <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="assets/img/iconJS.svg" alt="javascript" width="40" height="40"/> </a> O que eu sei é muito básico, da linguagem, talvez nem isso... <!-->
  
