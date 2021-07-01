@@ -10,7 +10,7 @@
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="assets/img/iconPython.svg" alt="python" width="40" height="40"/> </a> 
  
-<!--><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="assets/img/iconJS.svg" alt="javascript" width="40" height="40"/> </a> O que eu sei é muito básico, da linguagem, talvez nem isso... <!-->
+# <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="assets/img/iconJS.svg" alt="javascript" width="40" height="40"/> </a> O que eu sei é muito básico, da linguagem, talvez nem isso... <!-->
  
 <!--> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://angular.io" target="_blank"> <img src="assets/img/angular-icon.svg" alt="angularjs" width="40" height="40"/> </a> Comentado - acredito que não tenho propriedade o suficiente com o dipositivo e seus recursos para exibi-la aqui na minha "ferramentaria" <!-->
