@@ -21,7 +21,7 @@
  
  [//]: <> (<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>)
  
-<a href="https://www.python.org" target="_blank"> <img src="assets/img/iconPython.svg" alt="python" width="40" height="40"/> </a>           
+<a href="https://www.python.org" target="_blank"> <img src="assets/img/iconPython.svg" alt="python" width="40" height="40"/> </a> 
  <a href="https://angular.io" target="_blank"> <img src="assets/img/angular-icon.svg" alt="angularjs" width="40" height="40"/> </a>                                       
  <a href="https://getbootstrap.com.br/" target="_blank"> <img src="assets/img/iconBootStrap.svg" alt="Bootstrap" width="40" height="40"/> </a>  
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>                                                                                                               
