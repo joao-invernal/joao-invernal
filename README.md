@@ -23,7 +23,6 @@
  
 <a href="https://www.python.org" target="_blank"> <img src="assets/img/iconPython.svg" alt="python" width="40" height="40"/> </a> 
  <a href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://camo.githubusercontent.com/7b23e6c442adf9ef0714d6b52c2621b3ebef58bcc2f101b8dabab05904201e4f/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6a6176612d34332d3536393330352e706e67" alt="Java" width="40" height="40"/> </a> 
- 
  <a href="https://angular.io" target="_blank"> <img src="assets/img/angular-icon.svg" alt="angularjs" width="40" height="40"/> </a>
  <a href="https://getbootstrap.com.br/" target="_blank"> <img src="assets/img/iconBootStrap.svg" alt="Bootstrap" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
