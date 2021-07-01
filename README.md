@@ -10,6 +10,8 @@
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="assets/img/iconPython.svg" alt="python" width="40" height="40"/> </a> 
  
+ <> (This is a comment, it will not be included)
+ 
 # <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="assets/img/iconJS.svg" alt="javascript" width="40" height="40"/> </a> O que eu sei é muito básico, da linguagem, talvez nem isso... <!-->
  
 <!--> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
