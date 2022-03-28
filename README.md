@@ -4,7 +4,8 @@
 
 <h1 align="center"> Olá Mundo 😎</h1>
 
-Este é simplesmente o meu perfil, e faço o seu uso para armazenar algumas prova de conceitos, alguns experimentos, protótipos, inovações em geral, relacionados com a minha área de atuação profisional - Engenharia de Software. <br><br>
+Atualmente faço a utilização da plataforma para promover a exibição de projetos do meu portifólio e realizar consultas a matérial de estudo, documentação, e referências para manutenção de conhecimento. 
+Felizmente, tenho um engajamento orientado ao escopo de desenvolvimento - Coincidindo, inclusive com a minha profissionalidade - análise e construção de Software. <br><br>
 
 Para mais informações, rede social explica: 
 
