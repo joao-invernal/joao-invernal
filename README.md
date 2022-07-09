@@ -5,12 +5,15 @@
 <h1 align="center"> Olá Mundo 😎</h1>
 
 <h3 align="center"> “Eu gosto que meu código seja elegante e eficiente”. </h3>
-<br> <br>
+<br> <br> <br>
 <h3 align="center"> Engajamento ao desempenho computacional, otimização dos recursos, execução do requísitos ;)  <h3>
 
-<br><br>
-
-Estudante autônomo em lapidação e aperfeiçoamento de carreira.
+<br>
+<p align="center">
+    <img align="center" alt="visitors" src="https://profile-counter.glitch.me/Mr-Sena/count.svg" />
+</p>
+<br> <br>
+Estudante autônomo em lapidação e aperfeiçoamento de carreira
  * Estudando virtualização de conteiners
  * Código Artesanal
  * E aplicação de boas práticas para desenvolvimento de APIs
