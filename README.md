@@ -4,8 +4,18 @@
 
 <h1 align="center"> Olá Mundo 😎</h1>
 
-Atualmente faço a utilização da plataforma para promover a exibição de projetos do meu portifólio e realizar consultas a matérial de estudo, documentação, e referências para manutenção de conhecimento. 
-Felizmente, tenho um engajamento orientado ao escopo de desenvolvimento - Coincidindo, inclusive com a minha profissionalidade - análise e construção de Software. <br><br>
+<h3 align="center"> “Eu gosto que meu código seja elegante e eficiente”. </h3>
+<br> <br>
+<h3 align="center"> Engajamento ao desempenho computacional, otimização dos recursos, execução do requísitos ;)  <h3>
+
+<br><br>
+
+Estudante autônomo em lapidação e aperfeiçoamento de carreira.
+ * Estudando virtualização de conteiners
+ * Código Artesanal
+ * E aplicação de boas práticas para desenvolvimento de APIs
+
+<BR><BR>
 
 Para mais informações, rede social explica: 
 
