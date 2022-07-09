@@ -10,9 +10,9 @@
 
 <br> <br>
 Estudante autônomo em lapidação e aperfeiçoamento de carreira
- * Estudando virtualização de conteiners
- * Código Artesanal
- * E aplicação de boas práticas para desenvolvimento de APIs
+ * Estudando virtualização de conteiners 🐳
+ * Código Artesanal ⚒️
+ * E aplicação de boas práticas para desenvolvimento de APIs ⚙️
 
 <BR>
 
