@@ -5,10 +5,8 @@
 <h1 align="center"> Olá Mundo 😎</h1>
 
 <h3 align="center"> “Eu gosto que meu código seja elegante e eficiente”. </h3>
-<br> <br> <br>
+<br> <br>
 <h3 align="center"> Engajamento ao desempenho computacional, otimização dos recursos, execução do requísitos ;)  <h3>
-
-<br>
 
 <br> <br>
 Estudante autônomo em lapidação e aperfeiçoamento de carreira
