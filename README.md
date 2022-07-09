@@ -9,16 +9,20 @@
 <h3 align="center"> Engajamento ao desempenho computacional, otimização dos recursos, execução do requísitos ;)  <h3>
 
 <br>
-<p align="center">
-    <img align="center" alt="visitors" src="https://profile-counter.glitch.me/Mr-Sena/count.svg" />
-</p>
+
 <br> <br>
 Estudante autônomo em lapidação e aperfeiçoamento de carreira
  * Estudando virtualização de conteiners
  * Código Artesanal
  * E aplicação de boas práticas para desenvolvimento de APIs
 
-<BR><BR>
+<BR>
+
+<p align="center">
+    <img align="center" alt="visitors" src="https://profile-counter.glitch.me/Mr-Sena/count.svg" />
+</p>
+
+<BR>
 
 Para mais informações, rede social explica: 
 
