@@ -10,7 +10,7 @@
 
 <br> <br>
 Analista de sistema em lapidação e aperfeiçoamento de carreira
- * Aplicação a DevOps ⚙️
+ * Engenharia DevOps ⚙️
  * Modelagem de dados 🎲
  * Desenvolvimento de sistema 👨🏻‍💻
 
