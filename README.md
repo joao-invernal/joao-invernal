@@ -6,7 +6,7 @@
 
 <h3 align="center"> “Eu gosto que meu código seja elegante e eficiente” </h3>
 <br>
-<h3 align="center"> Engajamento ao desempenho computacional, otimização dos recursos, execução de requísitos  <h3>
+<h3 align="center"> Performance computacional, otimização dos recursos, execução de requísitos  <h3>
 
 <br> <br>
 Analista de sistema em lapidação e aperfeiçoamento de carreira
