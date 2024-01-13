@@ -4,7 +4,7 @@
 
 <h1 align="center"> Olá Mundo 😎</h1>
 
-<h3 align="center"> “Eu gosto que meu código seja elegante e eficiente” </h3>
+<h3 align="center"> “Eu gosto que meu código seja elegante e eficiente.” </h3>
 <br>
 <h3 align="center"> Performance computacional, otimização dos recursos, execução de requísitos  <h3>
 
