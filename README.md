@@ -22,6 +22,6 @@ Analista de sistema em lapidação e aperfeiçoamento de carreira
 
 <BR>
 
-Para mais informações, rede social explica: 
+Para mais detalhes, consultar rede social: 
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-sena-da-silva-64a3b11a0/"><img src="https://logospng.org/download/linkedin/logo-linkedin-1536.png" alt="Lkd" width="100" height="100"/></a>
