@@ -2,7 +2,7 @@
   <img src="https://c.tenor.com/LDuF2jVabwoAAAAC/banner-welcome.gif">
 </p>
 
-<h1 align="center"> Olá Mundo 😎</h1>
+<h1 align="center"> Olá Mundo! 😎</h1>
 
 <h3 align="center"> “Eu gosto que meu código seja elegante e eficiente.” </h3>
 <br>
