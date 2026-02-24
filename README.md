@@ -9,6 +9,7 @@
 <h3 align="center"> Desempenho computacional, recursos eficientes, trabalho orientado a entregas  <h3>
 
 <br>
+
  ### Análise e Engenharia de Tecnologia
  * Coletividade DevOps ⚙️
  * Modelagem de dados 🎲
