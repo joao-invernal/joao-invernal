@@ -4,21 +4,17 @@
 
 <h1 align="center"> Olá Mundo! 😎</h1>
 
-<h3 align="center"> [ Eu gosto que meu código seja elegante e eficiente. ] </h3>
+<h3 align="center"> [ Eu gosto que meu código seja elegante e eficiente ] </h3>
 <br>
 <h3 align="center"> Desempenho computacional, recursos eficientes, trabalho orientado a entregas  <h3>
 
-<br> <br>
+<br>
  ### Análise e Engenharia de Tecnologia
  * Coletividade DevOps ⚙️
  * Modelagem de dados 🎲
  * Desenvolvimento de sistema 👨🏻‍💻
 
 <BR>
-
-<p align="center">
-    <img align="center" alt="visitors" src="https://profile-counter.glitch.me/Mr-Sena/count.svg" />
-</p>
 
 <BR>
 
